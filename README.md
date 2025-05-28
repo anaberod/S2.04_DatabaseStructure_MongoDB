@@ -1,4 +1,4 @@
-# 🍽️ MongoDB Restaurant Queries – Level 1
+# 🍽️ MongoDB Restaurant Queries
 
 ## 📄 Description – Exercise Statement
 
