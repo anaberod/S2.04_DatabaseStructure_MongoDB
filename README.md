@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# 🍽️ MongoDB Restaurant Queries – Level 1
-=======
 # 🍽️ MongoDB Restaurant Queries
->>>>>>> 9f0540e339276d61b323eddb745fe1cb49c072be
 
 ## 📄 Description – Exercise Statement
 
