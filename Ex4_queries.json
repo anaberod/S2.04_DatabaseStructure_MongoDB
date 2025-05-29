@@ -113,7 +113,7 @@
   "address.coord.1": { "$gt": 42, "$lte": 52 }
 }
 
-// 25. Sort by name ascending (use Compass "Sort" tab)
+// 25. Sort by name ascending (use Compass "Sort" tab: { "name": 1 })
 {}
 
 // 26. Sort by name descending (use Compass "Sort" tab: { "name": -1 })
